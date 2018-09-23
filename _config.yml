@@ -13,7 +13,7 @@ instagram_key:
 instagram_caption: true
 
 # SEO settings
-title: Cartwheel
+title: Carolina
 description: 
 url: ""
 email:
@@ -22,7 +22,7 @@ default_img:
 
 # Profile settings
 social:
-  twitter: https://twitter.com/FedeTrimboli
+  twitter: https://twitter.com/carokds
 
 # Build settings
 exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]

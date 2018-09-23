@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Pork Belly Man"
-date: 2017-02-04
-categories: 
+title: "Mi primer post"
+date: 2018-03-31
+tags:
+  - primer
+  - post 
 description: 
-image: /assets/images/placeholders/placeholder-3.jpg
+image: /assets/images/placeholders/placeholder-1.jpg
 ---
-Street art pok pok raw denim, glossier narwhal neutra godard. Humblebrag you probably haven't heard of them tacos, celiac hell of before they sold out kogi wolf la croix artisan taxidermy church-key. Heirloom kickstarter brunch, blog pinterest poutine put a bird on it. Umami lomo master cleanse artisan taxidermy, pitchfork kale chips mustache poke mlkshk tumeric post-ironic. Craft beer waistcoat photo booth seitan, chicharrones brunch meh humblebrag keytar banjo biodiesel raw denim air plant. Pitchfork drinking vinegar cornhole, +1 poke echo park iPhone cold-pressed disrupt keffiyeh godard craft beer raw denim air plant quinoa. Kombucha selfies synth tattooed, food truck williamsburg banjo.
+Este es mi primer post. Espero que les guste.
 
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
