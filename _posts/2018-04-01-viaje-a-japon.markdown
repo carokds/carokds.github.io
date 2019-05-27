@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viaje a Japón: volviendo a las raíces"
+title: "Japón: volviendo a las raíces"
 date: 2018-04-01
 categories: 
 description: 
