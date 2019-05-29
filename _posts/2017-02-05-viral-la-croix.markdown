@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viral La Croix"
-date: 2017-02-05
+date: 2019-08-05
 tags:
   - Scenester
   - Selfies 

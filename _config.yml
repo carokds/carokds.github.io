@@ -6,23 +6,23 @@ color_alpha: feeaeb
 color_beta: 05009e
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-141012738-1
 
 # Instagram API
 instagram_key: 
 instagram_caption: true
 
 # SEO settings
-title: Carolina
+title: Cocó en Barcelona
 description: 
 url: ""
-email:
+email: caro@cocoenbarcelona.com
 twitter_username: 
 default_img: 
 
 # Profile settings
 social:
-  twitter: https://twitter.com/carokds
+  instagram: https://www.instagram.com/carokakefuku/
 
 # Build settings
 exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]

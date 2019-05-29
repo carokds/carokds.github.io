@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scenester Everyday"
-date: 2017-02-10
+date: 2019-12-10
 categories: 
 description: 
 image: /assets/images/placeholders/placeholder-9.jpg

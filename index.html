@@ -4,29 +4,19 @@ layout: default
 <section class="mast">
   <header class="mast__header">
     <h1>Cocó en Barcelona</h1>
-    <span>Por Caro K.</span>
+    <span><i>Por Caro K.</i></span>
   </header>
   <div class="mast__img bg-grey">
-    <div class="absolute-bg" style="background-image: url('/assets/images/mast-left.jpg');"></div>
+    <div class="absolute-bg" style="background-image: url('/assets/images/home/Caro-Barcelona.jpg');"></div>
   </div>
   <div class="mast__img bg-alpha">
-    <div class="absolute-bg" style="background-image: url('/assets/images/mast-right.jpg');"></div>
-  </div>
-</section>
-
-<section id="about" class="section-padding bg-grey">
-  <div class="grid">
-    <h1 class="section-header">Sobre mí</h1>
-    <div class="about">
-      <p class="about__text wow fadeInUp" data-wow-delay="300ms">iOS Engineer at Despegar.com</p>
-    </div>
-    <div id="instafetch" class="container-triple"></div>
+    <div class="absolute-bg" style="background-image: url('/assets/images/home/Barcelona-Terraza.jpg');"></div>
   </div>
 </section>
 
 <section id="blog" class="section-padding bg-white">
   <div class="grid">
-    <h1 class="section-header">Blog</h1>
+    <h1 class="section-header">Últimos posts</h1>
     <ul class="container-double" itemscope itemtype="http://schema.org/Blog">
       {% for post in site.posts limit:6 %}
         <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
@@ -49,15 +39,27 @@ layout: default
     <div class="container-btn">
       <a class="btn" href="/archive">
         <div>
-          <span>Read More</span>
-          <span>Read More</span>
+          <span>Más historias</span>
+          <span>Más historias</span>
         </div>
       </a>
     </div>
   </div>
 </section>
 
-<section id="portfolio" class="section-padding bg-alpha">
+<section id="about" class="section-padding bg-grey">
+    <div class="grid">
+      <h1 class="section-header">Quién soy</h1>
+      <div class="about">
+        <p class="about__text wow fadeInUp" data-wow-delay="300ms">Soy Caro, una argentina viviendo en Barcelona con mi novio, Fede, y Cocó, nuestra <i>pepa</i>.</p>
+        <p class="about__text wow fadeInUp" data-wow-delay="300ms">Escribo para hacer catarsis, y para mostrarte esta ciudad desde otra perspectiva, para que les sirva de guía a los que vengan a turistear o a quedarse.</p>
+        <p class="about__text wow fadeInUp" data-wow-delay="300ms">¡Espero que les guste!</p>
+      </div>
+      <div id="instafetch" class="container-triple"></div>
+    </div>
+  </section>
+
+<!-- <section id="portfolio" class="section-padding bg-alpha">
   <div class="grid--double">
     <h1 class="section-header">Portfolio</h1>
     <div class="portfolio-carousel owl-carousel wow fadeIn">
@@ -78,4 +80,4 @@ layout: default
       </div>
     </div>
   </div>
-</section>
+</section> -->

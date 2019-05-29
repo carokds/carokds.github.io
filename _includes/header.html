@@ -1,14 +1,19 @@
 <header class="header">
   <a href="/">
     <figure class="header__img">
-      <img src="/assets/images/logo.png" alt="Cartwheel Logo"/>
+      <img src="/assets/images/travel.png" alt="Inicio"/>
     </figure>
   </a>
   <nav>
-    <ul class="header__list">
-      <li><a data-scroll href="/#about">Sobre mí</a></li>
-      <li><a data-scroll href="/#blog">Blog</a></li>
-      <li><a data-scroll href="/#portfolio">📷</a></li>
-    </ul>
+    {% if site.email or site.social %}
+      <ul class="footer__social">
+        {% if site.email %}
+          <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+        {% endif %}
+        {% for social in site.social %}
+          <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </nav>
 </header>
