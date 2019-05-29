@@ -35,5 +35,3 @@ sass:
 
 # Gems
 gems: [jekyll-sitemap, octopress-autoprefixer]
-
-theme: jekyll-theme-cayman
