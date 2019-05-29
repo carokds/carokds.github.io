@@ -25,7 +25,7 @@ social:
   instagram: https://www.instagram.com/carokakefuku/
 
 # Build settings
-exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock", "_borrador"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
