@@ -6,7 +6,7 @@ categories:
 description: 
 image: /assets/images/posts/Ventana.jpg
 ---
-En el próximo posteo te cuento cómo llevamos los primeros meses acá en Barcelona: una mudanza, encontrar una casa, segunda mudanza, conocer el barrio, más trámites (nunca se terminan), y cómo se fue (y se sigue) dando todo el proceso de adaptarnos a esta nueva gran ciudad y su estilo de vida.
+En el próximo posteo les cuento cómo llevamos los primeros meses acá en Barcelona: una mudanza, encontrar una casa, segunda mudanza, conocer el barrio, más trámites (nunca se terminan), y cómo se fue (y se sigue) dando todo el proceso de adaptarnos a esta nueva gran ciudad y su estilo de vida.
 
 <!-- <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
