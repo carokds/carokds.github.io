@@ -1,25 +1,61 @@
 ---
 layout: post
-title: "Trámites-Primera Parte: la previa"
-date: 2019-07-12
+title: "Discovering Edinburgh in 3 days"
+date: 2019-10-27
 tags:
-  - Trámites
-  - Burocracia
-  - Argentina
-  - Buenos Aires 
-description: 
-image: /assets/images/placeholders/placeholder-1.jpg
----
-Próximamente.
+- Travel
+- Business Travel
+- Edinburgh
+- Europe
+- Running
+- Harry Potter
 
-<ul>
-  En este posteo les voy a dejar un <i>paso a paso</i> de todos los trámites que hice en Buenos Aires, previos al viaje.
-  <li>Turnos: cómo y dónde gestionarlos.</li>
-  <li>Legalizaciones: qué documentos se tienen que legalizar y cuáles no.</li>
-  <li>Apostillas</li>
-  <li>Traer a Cocó</li>
-  <li>Y más.</li>
-</ul>
+description: 
+image: /assets/images/posts/Edinburgh.jpg
+---
+
+### <i>“Keep the heid”</i> ###
+
+Last September my boyfriend had to travel to Edinburgh for work, and since we had never been there before –and I was hooked on the story about _Jamie_ and his _Sassenach_–, this seemed like the perfect excuse to join him, so I totally crashed his business trip (**_yay!_**). 
+
+<figure>
+ <img src="/assets/images/posts/national-museum-of-scotland.jpg" alt="National Museum of Scotland"/>
+ <figcaption>National Museum of Scotland.</figcaption>
+</figure>
+
+I spent those 3 days walking around this amazing city, and visiting its historic beautiful spots. Whenever I travel, I particularly **love** getting lost and discovering places as I walk, stoping by every antique shop that calls my attention. But if you aren’t the _rambling-kind-of_ tourist and don’t want to miss anything (specially when you have limited time), I find this [blog](https://www.dangerous-business.com/72-hours-edinburgh-scotland/) to provide a very useful and complete guide to Edinburgh. 
+
+<figure class="large-img">
+ <img src="/assets/images/posts/victoria-street.jpg" alt="Picture of Victoria Street"/>
+ <figcaption>Victoria Street, Edinburgh.</figcaption>
+</figure>
+
+We stayed at [**the hub by Premier Inn Edinburgh Haymarket**](https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/hub-edinburgh-haymarket.html), really nice hotel and not expensive at all! Besides, its centred-location makes it pretty easy to walk everywhere.
+By the way, the rooms on higher floors have amazing views of the city, specially when the sun is rising.
+
+<figure>
+ <img src="/assets/images/posts/view-from-the-hotel-window.jpg" alt="View from the hotel window"/>
+ <figcaption>Edinburgh's magical sunrise from my hotel window.</figcaption>
+</figure>
+
+Also, if you enjoy running as much as I do, The Meadows & Bruntsfield is a great park to start your day with a run. You may also follow the [_Edinburgh RunSeeing Tour_](https://greatruns.com/edinburgh-runseeing-tour/), an original _two-for-one_ way to see many of the city's interesting places while jogging.  
+
+
+#### The Elephant House ####
+
+I’m not quite a _Harry Potter_ fan, and that’s why when I ran into a crowd taking pictures outside _The Elephant House_ didn’t understand what was happening. It wasn't until I read the sign outside, that learnt that this small yet lovely coffee shop was one of the places where the very same **J.K. Rowling** wrote part of the famous saga (yeap, shame on me).  Actually, much of her inspiration for the books comes from Edinburgh. 
+Here’s an interesting [guide](https://independenttravelcats.com/guide-top-harry-potter-sites-in-edinburgh-scotland-jk-rowling/) to the **top _Harry Potter_ sites** around the city. 
+
+<figure>
+ <img src="/assets/images/posts/the-elephant-house.jpg" alt="The Elephant House."/>
+ <figcaption>The Elephant House.</figcaption>
+</figure>
+
+Of course we couldn’t be in Edinburgh without trying whiskey, so we went to a local pub and ordered a glass of local scotch but, _spoiler-not-so-spoiler_ alert: it **burned** and I didn’t like it.
+
+Anyways, I still can't figure what it is about Edinburgh that was so enchanting. Maybe it was its fairytale-air, its kindest people ever or its indecisive weather. One thing for sure: I totally **_fell_** for it. 
+
+<!-- (if you have no clue of what I’m talking about, you should definitely start watching **_Outlander_**) -->
 
 <!-- <ol>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
