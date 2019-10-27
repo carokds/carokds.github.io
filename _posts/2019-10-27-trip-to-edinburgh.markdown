@@ -38,7 +38,7 @@ By the way, the rooms on higher floors have amazing views of the city, specially
  <figcaption>Edinburgh's magical sunrise from my hotel window.</figcaption>
 </figure>
 
-Also, if you enjoy running as much as I do, The Meadows & Bruntsfield is a great park to start your day with a run. You may also follow the [_Edinburgh RunSeeing Tour_](https://greatruns.com/edinburgh-runseeing-tour/), an original _two-for-one_ way to see many of the city's interesting places while jogging.  
+Also, if you enjoy running as much as I do, The Meadows & Bruntsfield is a great park to start your day with a run. You may also follow the [_Edinburgh RunSeeing Tour_](https://greatruns.com/edinburgh-runseeing-tour/), an original _two-for-one_ way to see many of the city's amazing places while jogging.  
 
 
 #### The Elephant House ####
@@ -51,7 +51,7 @@ Here’s an interesting [guide](https://independenttravelcats.com/guide-top-harr
  <figcaption>The Elephant House.</figcaption>
 </figure>
 
-Of course we couldn’t be in Edinburgh without trying whiskey, so we went to a local pub and ordered a glass of local scotch but, _spoiler-not-so-spoiler_ alert: it **burned** and I didn’t like it.
+Of course we couldn’t leave Edinburgh without trying whiskey, so we went to a local pub and ordered a glass of local scotch but, _spoiler-not-so-spoiler_ alert: it **burned** and I didn’t like it.
 
 Anyways, I still can't figure what it is about Edinburgh that was so enchanting. Maybe it was its fairytale-air, its kindest people ever or its indecisive weather. One thing for sure: I totally **_fell_** for it. 
 
