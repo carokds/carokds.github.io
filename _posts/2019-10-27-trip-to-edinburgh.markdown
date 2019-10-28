@@ -23,7 +23,7 @@ Last September my boyfriend had to travel to Edinburgh for work, and since we ha
  <figcaption>National Museum of Scotland.</figcaption>
 </figure>
 
-I spent those 3 days walking around this amazing city, and visiting its historic beautiful spots. Whenever I travel, I particularly **love** getting lost and discovering places as I walk, stoping by every antique shop that calls my attention. But if you aren’t the _rambling-kind-of_ tourist and don’t want to miss anything (specially when you have limited time), I find this [blog](https://www.dangerous-business.com/72-hours-edinburgh-scotland/) to provide a very useful and complete guide to Edinburgh. 
+I spent those 3 days walking around this amazing city, and visiting its historic beautiful spots. Whenever I travel, I particularly **love** getting lost and discovering places as I walk, stoping by every antique shop that calls my attention. But if you aren’t the _rambling-kind-of_ tourist and don’t want to miss anything (specially when you have limited time), I find this [blog](https://www.dangerous-business.com/72-hours-edinburgh-scotland/) to provide a very useful and **complete guide to Edinburgh**. 
 
 <figure class="large-img">
  <img src="/assets/images/posts/victoria-street.jpg" alt="Picture of Victoria Street"/>
@@ -38,7 +38,7 @@ By the way, the rooms on higher floors have amazing views of the city, specially
  <figcaption>Edinburgh's magical sunrise from my hotel window.</figcaption>
 </figure>
 
-Also, if you enjoy running as much as I do, The Meadows & Bruntsfield is a great park to start your day with a run. You may also follow the [_Edinburgh RunSeeing Tour_](https://greatruns.com/edinburgh-runseeing-tour/), an original _two-for-one_ way to see many of the city's amazing places while jogging.  
+Also, if you enjoy **running** as much as I do, The Meadows & Bruntsfield is a great park to start your day with a run. You may also follow the [_Edinburgh RunSeeing Tour_](https://greatruns.com/edinburgh-runseeing-tour/), an original _two-for-one_ way to see many of the city's amazing places while jogging.  
 
 
 #### The Elephant House ####
