@@ -1,13 +1,12 @@
 <footer class="footer section-padding--half bg-alpha">
   <div class="footer__container grid">
-    <p>©2019. Hecho con ♥ en Barcelona.</p>
-    <p>All pictures from this blog were shot on iPhone.</p>
-    <p><i>By Caro Kakefuku</i></p>
+    <p>©2019 Hecho con ♥ by Caro Kakefuku.</p>
+    <p>Say Hello!👇</p>
 
     {% if site.email or site.social %}
       <ul class="footer__social">
         {% if site.email %}
-          <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+          <li><a class="fa fa-lg fa-paper-plane-o" href="mailto:{{ site.email }}"></a></li>
         {% endif %}
         {% for social in site.social %}
           <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>

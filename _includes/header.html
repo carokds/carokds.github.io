@@ -5,7 +5,13 @@
     </figure>
   </a>
   <nav>
-    {% if site.email or site.social %}
+      <ul class="header__list">
+          <li><a data-scroll href="/#about">About</a></li>
+          <li><a data-scroll href="/#blog">Blog</a></li>
+          <li><a data-scroll href="mailto:{{ site.email }}">Contact</a></li>
+          <!-- <li><a data-scroll href="/#portfolio"></a></li> -->
+        </ul>
+    <!-- {% if site.email or site.social %}
       <ul class="footer__social">
         {% if site.email %}
           <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
@@ -14,6 +20,6 @@
           <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
         {% endfor %}
       </ul>
-    {% endif %}
+    {% endif %} -->
   </nav>
 </header>

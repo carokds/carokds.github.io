@@ -3,7 +3,7 @@ baseurl: ""
 
 # Color settings (Hex value without #)
 color_alpha: feeaeb
-color_beta: 05009e
+color_beta: 494949
 
 # Google Analytics
 google_analytics: UA-150078899-1
@@ -23,6 +23,7 @@ default_img:
 # Profile settings
 social:
   instagram: https://www.instagram.com/carokakefuku/
+  linkedin: https://www.linkedin.com/in/carolinakakefuku/?locale=en_US
 
 # Build settings
 exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock", "_borrador"]
