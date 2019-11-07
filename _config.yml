@@ -13,7 +13,7 @@ instagram_key:
 instagram_caption: true
 
 # SEO settings
-title: COCÓ EN BARCELONA
+title: Cocó en Barcelona
 description: 
 url: ""
 email: caro@cocoenbarcelona.com
@@ -23,7 +23,6 @@ default_img:
 # Profile settings
 social:
   instagram: https://www.instagram.com/carokakefuku/
-  linkedin: https://www.linkedin.com/in/carolinakakefuku/?locale=en_US
 
 # Build settings
 exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock", "_borrador"]
